@@ -3,7 +3,6 @@ package TestTask;
 import java.lang.reflect.Array;
 import java.util.Scanner;
 
-@SuppressWarnings("ALL")
 public class Calculator {
     public static <string> void main(String[] args) throws Exception{
         Scanner input = new Scanner(System.in);
